@@ -5,7 +5,7 @@ function App() {
   return (
     <Fragment>
       <div className="App">
-        Este es mi CV en React
+        CV en React
       </div>
     </Fragment>
   );
